@@ -1,2 +1,0 @@
-# gangwang.github.com
-## yes
