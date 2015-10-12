@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Services on My New Site</title>
-    <link>http://localhost:1313/services/</link>
-    <description>Recent content in Services on My New Site</description>
+    <title>Services on My Life</title>
+    <link>http://gangwang.github.io/services/</link>
+    <description>Recent content in Services on My Life</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/services/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://gangwang.github.io/services/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>About Us</title>
-      <link>http://localhost:1313/services/about/about/</link>
+      <link>http://gangwang.github.io/services/about/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/services/about/about/</guid>
+      <guid>http://gangwang.github.io/services/about/about/</guid>
       <description>&lt;p&gt;WidgetCo is the world leader in widget production.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Customized First</title>
-      <link>http://localhost:1313/services/widgets/</link>
+      <link>http://gangwang.github.io/services/widgets/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/services/widgets/</guid>
+      <guid>http://gangwang.github.io/services/widgets/</guid>
       <description>
 
 &lt;hr /&gt;

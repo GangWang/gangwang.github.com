@@ -1,29 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Site</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on My New Site</description>
+    <title>My Life</title>
+    <link>http://gangwang.github.io/</link>
+    <description>Recent content on My Life</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>About Us</title>
-      <link>http://localhost:1313/services/about/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/services/about/about/</guid>
-      <description>&lt;p&gt;WidgetCo is the world leader in widget production.&lt;/p&gt;
-</description>
-    </item>
+    <atom:link href="http://gangwang.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Customized First</title>
-      <link>http://localhost:1313/services/widgets/</link>
+      <link>http://gangwang.github.io/services/widgets/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/services/widgets/</guid>
+      <guid>http://gangwang.github.io/services/widgets/</guid>
       <description>
 
 &lt;hr /&gt;
@@ -31,6 +21,16 @@
 &lt;h2 id=&#34;menu-main-footer:facab08362727feb067587fc70b2c0cf&#34;&gt;menu: [&amp;ldquo;main&amp;rdquo;, &amp;ldquo;footer&amp;rdquo;]&lt;/h2&gt;
 
 &lt;p&gt;We specialize in bespoke widgets, built to your specification.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>About Us</title>
+      <link>http://gangwang.github.io/services/about/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://gangwang.github.io/services/about/about/</guid>
+      <description>&lt;p&gt;WidgetCo is the world leader in widget production.&lt;/p&gt;
 </description>
     </item>
     
