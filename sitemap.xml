@@ -2,16 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://gangwang.github.io/</loc>
+    <loc>http://localhost:1313/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://gangwang.github.io/services/widgets/</loc>
+    <loc>http://localhost:1313/services/life/</loc>
   </url>
   
   <url>
-    <loc>http://gangwang.github.io/services/about/about/</loc>
+    <loc>http://localhost:1313/services/work/</loc>
   </url>
   
 </urlset>

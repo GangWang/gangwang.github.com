@@ -2,35 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My Life</title>
-    <link>http://gangwang.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on My Life</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://gangwang.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Customized First</title>
-      <link>http://gangwang.github.io/services/widgets/</link>
+      <title>Life</title>
+      <link>http://localhost:1313/services/life/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://gangwang.github.io/services/widgets/</guid>
-      <description>
+      <guid>http://localhost:1313/services/life/</guid>
+      <description>&lt;p&gt;About Life&lt;/p&gt;
 
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;menu-main-footer:facab08362727feb067587fc70b2c0cf&#34;&gt;menu: [&amp;ldquo;main&amp;rdquo;, &amp;ldquo;footer&amp;rdquo;]&lt;/h2&gt;
-
-&lt;p&gt;We specialize in bespoke widgets, built to your specification.&lt;/p&gt;
+&lt;footer&gt;
+&lt;a href=&#39;{{ .Permalink }}&#39;&gt;&lt;nobr&gt;Read more →&lt;/nobr&gt;&lt;/a&gt;
+&lt;/footer&gt;
 </description>
     </item>
     
     <item>
-      <title>About Us</title>
-      <link>http://gangwang.github.io/services/about/about/</link>
+      <title>Work</title>
+      <link>http://localhost:1313/services/work/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://gangwang.github.io/services/about/about/</guid>
-      <description>&lt;p&gt;WidgetCo is the world leader in widget production.&lt;/p&gt;
+      <guid>http://localhost:1313/services/work/</guid>
+      <description>&lt;p&gt;About Work&lt;/p&gt;
+
+&lt;footer&gt;
+&lt;a href=&#39;{{ .Permalink }}&#39;&gt;&lt;nobr&gt;Read more →&lt;/nobr&gt;&lt;/a&gt;
+&lt;/footer&gt;
 </description>
     </item>
     

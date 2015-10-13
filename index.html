@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="">
     <meta name="author" content="">
-    <base href="http://gangwang.github.io/">
+    <base href="http://localhost:1313/">
     <title>My Life</title>
 
     
@@ -43,15 +43,11 @@
         
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav navbar-right">
-                <li>
-                    <a class="page-scroll" href="#about">About</a>
-                </li>
+                
                 <li>
                     <a class="page-scroll" href="#services">Services</a>
                 </li>
-                <li>
-                    <a class="page-scroll" href="#contact">Contact</a>
-                </li>
+                
             </ul>
         </div>
         
@@ -132,19 +128,17 @@
                 <div class="col-lg-5 col-sm-6">
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
-                    <h2 class="section-heading">Customized First</h2>
-                    
+                    <h2 class="section-heading">Life</h2>
+                    <p>About Life</p>
 
-<hr />
-
-<h2 id="menu-main-footer:facab08362727feb067587fc70b2c0cf">menu: [&ldquo;main&rdquo;, &ldquo;footer&rdquo;]</h2>
-
-<p>We specialize in bespoke widgets, built to your specification.</p>
+<footer>
+<a href='{{ .Permalink }}'><nobr>Read more →</nobr></a>
+</footer>
 
                 </div>
                 
                 <div class="col-lg-5 col-lg-offset-2 col-sm-6">
-                    <img class="img-responsive" src="img/dog.png" alt="">
+                    <img class="img-responsive" src="img/life.jpeg" alt="">
                 </div>
                 
             </div>
@@ -168,9 +162,17 @@
                 <div class="col-lg-5 col-lg-offset-1 col-sm-push-6  col-sm-6">
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
-                    <h2 class="section-heading">About Us</h2>
-                    <p>WidgetCo is the world leader in widget production.</p>
+                    <h2 class="section-heading">Work</h2>
+                    <p>About Work</p>
 
+<footer>
+<a href='{{ .Permalink }}'><nobr>Read more →</nobr></a>
+</footer>
+
+                </div>
+                
+                <div class="col-lg-5 col-sm-pull-6  col-sm-6">
+                  <img class="img-responsive" src="img/dog.png" alt="">
                 </div>
                 
             </div>
@@ -184,56 +186,6 @@
     
 
 
-</section>
-
-
-<section id="contact">
-<div class="contact">
-	<div class="container">
-		<div class="row">
-
-			<div class="col-lg-6">
-				<h2>Stay In Touch:</h2>
-			</div>
-
-			<div class="col-lg-6">
-				<ul class="list-inline contact-social-buttons">
-					
-	<li>
-		<a href="gang.wang.china@gmail.com" class="btn btn-default btn-lg">
-			<i class="fa fa-envelope-o fa-fw"></i>
-			<span class="network-name">email</span>
-		</a>
-	</li>
-
-	<li>
-		<a href="https://twitter.com/gangwangchina" class="btn btn-default btn-lg">
-			<i class="fa fa-twitter fa-fw"></i>
-			<span class="network-name">twitter</span>
-		</a>
-	</li>
-
-	<li>
-		<a href="https://github.com/IronSummitMedia/startbootstrap" class="btn btn-default btn-lg">
-			<i class="fa fa-github fa-fw"></i>
-			<span class="network-name">github</span>
-		</a>
-	</li>
-
-	<li>
-		<a href="http://weibo.com/wgblog" class="btn btn-default btn-lg">
-			<i class="fa fa-weibo fa-fw"></i>
-			<span class="network-name">weibo</span>
-		</a>
-	</li>
-
-
-				</ul>
-			</div>
-
-		</div>
-	</div>
-</div>
 </section>
 
 
@@ -283,6 +235,9 @@
 
 
 
-</body>
+<script data-no-instant>document.write('<script src="http://'
+        + (location.host || 'localhost').split(':')[0]
+		+ ':1313/livereload.js?mindelay=10"></'
+        + 'script>')</script></body>
 </html>
 
